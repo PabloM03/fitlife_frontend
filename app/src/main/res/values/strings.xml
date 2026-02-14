@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fitlife</string>
+    <string-array name="sexo_array">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+
+    <string name="prompt_nivel_actividad">Selecciona tu nivel de actividad</string>
+
+    <string name="hint_desde">Desde</string>
+    <string name="hint_hasta">Hasta</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="cd_desde">Fecha desde</string>
+    <string name="cd_hasta">Fecha hasta</string>
+    <string name="nutricion_titulo">Pantalla Nutrición</string>
+    <string name="ver_comidas_hoy">Ver comidas de hoy</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="elegir_de_galeria">Elegir de galería</string>
+    <string name="analizar_comida">Analizar comida</string>
+    <string name="analisis_preview">Vista previa</string>
+    <string name="analisis_esperando">Esperando imagen para analizar…</string>
+    <string name="desc_logo_bienvenida">Logotipo de FitLife</string>
+
+</resources>
+
