@@ -23,7 +23,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class FeedAdapter extends RecyclerView.Adapter<FeedAdapter.ViewHolder> {
-    private static final String BASE_URL = "http://13.61.161.23:8080/fitlife/";
+    private static final String BASE_URL = "http://151.145.55.152:8080/fitlife/";
     private List<ComidaFeedItem> items;
 
     public FeedAdapter(List<ComidaFeedItem> items) {
